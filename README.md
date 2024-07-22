@@ -24,7 +24,7 @@ Simply put, in a crisis like this you need the man power, people to run the tool
 
 In the end, as promised I would like to recommend you to watch Dave Plummer's technical analysis of the situation:
 
-https://www.youtube.com/watch?v=wAzEJxOo1ts
+- https://www.youtube.com/watch?v=wAzEJxOo1ts
 
 Cheers and be sympathetic!
 
