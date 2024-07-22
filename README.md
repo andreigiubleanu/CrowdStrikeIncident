@@ -2,7 +2,7 @@ If you are following me , you are know that I usually post to recommend you awes
 
 Now, I would like to comment a bit on the CrowdStrike incident. In the end, I would leave you with a professional analysis from someone who knows a lot about Windows internals(task manager, windows activation just to name a few of his achievements).
 
-I would like to start by pointing out the obvious. All those posts making fun of Windows administrators on a Friday, while *Nix administrators are chillin, are biased. Linux itself has the thing called kernel panic, and because it's on black screen, rather than blue, it can blend in. Here are a few issues that *Nix administrators had to deal with, cause by CrowdStrike:
+I would like to start by pointing out the obvious. All those posts making fun of Windows administrators on a Friday, while *Nix administrators are chillin, are biased. Linux itself has the thing called kernel panic, and because it's on black screen, rather than blue, it can blend in. Here are a few issues that *Nix administrators had to deal with, caused by CrowdStrike:
 
 - https://www.reddit.com/r/debian/comments/1c8db7l/linuximage61020_killed_all_my_debian_vms
 - https://access.redhat.com/solutions/7068083
