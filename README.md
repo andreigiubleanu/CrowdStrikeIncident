@@ -20,7 +20,7 @@ Fifth, and this is a personal take on the recovery process from this incident. T
 
 - https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959
 
-Simply put, in a crisis like this you need the man power, people to run the tool and restore the systems. What I would wish as a feature for the Windows operating system is something like a list of previous kernels or a filesystem snapshot, when critical stuff like drivers are pushed into the OS. I know that there is the last know good configuration, but that is more about the apps, and things stored in windows registry. Other things like a full system backup, would have taken longer to restore, but with the same successful outcome.
+Simply put, in a crisis like this you need the man power, people to run the tool and restore the systems. What I would wish as a feature for the Windows operating system is something like a list of previous kernels or a filesystem snapshot, when critical stuff like drivers are pushed into the OS. I know that there is the last known good configuration, but that is more about the apps, and things stored in windows registry. Other things like a full system backup, would have taken longer to restore, but with the same successful outcome.
 
 In the end, as promised I would like to recommend you to watch Dave Plummer's technical analysis of the situation:
 
