@@ -16,7 +16,7 @@ Third, there is a group of people that are recommending to go to Rust developmen
 
 Forth, the other competitors of CrowdStrike, are trying to get business advantage, by promoting their solutions as being technical safe from stuff like this. This is again political, and I am sure in a similar fashion, CrowdStrike has done the same in the past, for companies doing their marketing like this, you won't get any respect from me.
 
-Fifth, and this is a personal take on the recovery process from this incident. The recovery process is manual, and a bit involved, this is why some of the affect systems are not fully up. Microsoft is providing a tool, that is speeding up the recovery process, and you can find it here:
+Fifth, and this is a personal take on the recovery process from this incident. The recovery process is manual, and a bit involved, this is why some of the affected systems are not fully up. Microsoft is providing a tool, that is speeding up the recovery process, and you can find it here:
 
 - https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959
 
