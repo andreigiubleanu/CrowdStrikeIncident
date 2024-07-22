@@ -1,4 +1,4 @@
-If you are following me , you are know that I usually post to recommend you awesome free/payed learning resources. I tend to stay away from I call "politics" that are happening here on LinkedIn more than on social media.
+If you are following me , you are know that I usually post to recommend you awesome free/payed learning resources. I tend to stay away from what I call "politics" that are happening here on LinkedIn more than on social media.
 
 Now, I would like to comment a bit on the CrowdStrike incident. In the end, I would leave you with a professional analysis from someone who knows a lot about Windows internals(task manager, windows activation just to name a few of his achievements).
 
